@@ -108,13 +108,18 @@ git commit
 
 ---
 
-#Étape 6: Effectuez un push
+# Étape 6: Effectuez un push
 
 ## Utilisez la commande pour envoyer votre commit
+
+```
+git push
+```
 
 ---
 
 # Étape 7: Demandez un pull request
+
 ## Sur la page de votre fork, vous pouvez maintenant créer un pull request à l'aide du bouton "Create Pull Request"
 
 ## Vous devez maintenant choisir la branche sur le projet original qui va tirer sur la branche dans votre fork.
@@ -122,4 +127,3 @@ git commit
 
 ## Par la suite, vous devez inclure un titre et une description à votre pull request
 ![Pull Request Descripiton](images/PullRequestDescription.png)
-
