@@ -30,6 +30,7 @@ class: middle, center
 # Ce guide est pour vous!
 ## Nous allons introduire les concepts de bases pour vous permettre:
 
+ * De Créer votre fourche
  * D'obtenir un dépôt Git
  * De Créer une branche pour notre nouvelle fonctionnalité
  * D'indexer les fichiers modifiés
@@ -38,7 +39,20 @@ class: middle, center
 
 ---
 
-# Étape 1: Obtenir un dépôt Git
+# Étape 1: Créer votre fourche
+
+## Historiquement, la fourche (fork) à une connotation négative
+
+## Dans le cas de Git, c'est une bonne chose!
+
+### Sur GitHub, c'est facile de faire un fork: ouvrez la page du projet et clickez sur "Fork"
+![GitHub Fork](Bootcamp-Fork.png)
+
+### Note: La raison pourquoi nous forkons le projet est pour nous assurer que nous avons les droits pour interagir avec le dossier.
+
+---
+
+# Étape 2: Obtenir un dépôt Git
 
 ### Sur Github, c'est facile d'obtenir le lien
 ![Fork URL](https://raw.githubusercontent.com/luctrudeau/Workshops/master/introgit/images/Fork-URL.png)
@@ -54,7 +68,7 @@ cd Workshops
 
 ---
 
-# Étape 2: Créer une branche pour notre nouvelle fonctionnalité
+# Étape 3: Créer une branche pour notre nouvelle fonctionnalité
 
 ### Nous désirons refaire cette slide, notre branch s'appellera _BranchSlideRefactoring_
 ```
@@ -65,7 +79,7 @@ git checkout -b BranchSlideRefactoring
 
 ---
 
-#Étape 4: Indexer les fichiers modifiés
+# Étape 4: Indexer les fichiers modifiés
 
 ## Suite à votre modification, il faut ajouter ce fichier pour qu'il soit inclus dans notre prochain commit
 
@@ -77,4 +91,34 @@ git add introgit/content.md
 
 ---
 
+# Étape 5: Effectuez votre commit
+
+## La commande commit nous permet de faire l'équivalent d'un snapshot de ce que nous avons indexé
+```
+git commit
+```
+## Suite à cette commande, votre éditeur sera ouvert. Vous devrez y entrer une description du commit
+
+### Une description de commit doit contenir:
+* Un titre comme première ligne
+* Un description du raisonnement derrière la modification contenu de ce commit
+
+#Attention ce commit est local (uniquement sur votre machine)
+
+---
+
+#Étape 6: Effectuez un push
+
+## Utilisez la commande pour envoyer votre commit
+
+---
+
+# Étape 7: Demandez un pull request
+## Sur la page de votre fork, vous pouvez maintenant créer un pull request à l'aide du bouton "Create Pull Request"
+
+## Vous devez maintenant choisir la branche sur le projet original qui va tirer sur la branche dans votre fork.
+![Pull Request](PullRequest.png)
+
+## Par la suite, vous devez inclure un titre et une description à votre pull request
+![Pull Request Descripiton](PullRequestDescription.png)
 
