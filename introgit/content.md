@@ -117,8 +117,8 @@ git commit
 ## Sur la page de votre fork, vous pouvez maintenant créer un pull request à l'aide du bouton "Create Pull Request"
 
 ## Vous devez maintenant choisir la branche sur le projet original qui va tirer sur la branche dans votre fork.
-![Pull Request](PullRequest.png)
+![Pull Request](https://raw.githubusercontent.com/luctrudeau/Workshops/master/introgit/images/PullRequest.png)
 
 ## Par la suite, vous devez inclure un titre et une description à votre pull request
-![Pull Request Descripiton](PullRequestDescription.png)
+![Pull Request Descripiton](https://raw.githubusercontent.com/luctrudeau/Workshops/master/introgit/images/PullRequestDescription.png)
 
