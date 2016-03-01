@@ -120,10 +120,14 @@ git push origin master
 
 # Étape 7: Demandez un pull request
 
-## Sur la page de votre fork, vous pouvez maintenant créer un pull request à l'aide du bouton "Create Pull Request"
+### Sur la page de votre fork, vous pouvez maintenant créer un pull request à l'aide du bouton "Create Pull Request"
 
-## Vous devez maintenant choisir la branche sur le projet original qui va tirer sur la branche dans votre fork.
+### Vous devez maintenant choisir la branche sur le projet original qui va tirer sur la branche dans votre fork.
 ![Pull Request](images/PullRequest.png)
 
-## Par la suite, vous devez inclure un titre et une description à votre pull request
+---
+
+# Étape 7: Demandez un pull request
+
+### Par la suite, vous devez inclure un titre et une description à votre pull request
 ![Pull Request Descripiton](images/PullRequestDescription.png)
