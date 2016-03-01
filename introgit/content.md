@@ -30,9 +30,9 @@ class: middle, center
 # Ce guide est pour vous!
 ## Nous allons introduire les concepts de bases pour vous permettre:
 
- * De Créer votre fourche
+ * De créer votre fourche
  * D'obtenir un dépôt Git
- * De Créer une branche pour notre nouvelle fonctionnalité
+ * De créer une branche pour notre nouvelle fonctionnalité
  * D'indexer les fichiers modifiés
  * De valider les modifications
  * De contribuer au projet
@@ -41,15 +41,15 @@ class: middle, center
 
 # Étape 1: Créer votre fourche
 
-## Historiquement, la fourche (fork) à une connotation négative
+### Historiquement, la fourche (fork) à une connotation négative
 
 ## Dans le cas de Git, c'est une bonne chose!
 
-### Sur GitHub, c'est facile de faire un fork: ouvrez la page du projet et clickez sur "Fork"
+Sur GitHub, c'est facile de faire un fork: ouvrez la page du projet et clickez sur "Fork"
 
 ![GitHub Fork](images/Bootcamp-Fork.png)
 
-### Note: Nous forkons le projet pour nous assurer d'avoir les droits pour contribuer nos modifications sur Github.
+Note: Nous forkons le projet pour nous assurer d'avoir les droits pour contribuer nos modifications sur Github.
 
 ---
 
