@@ -94,23 +94,23 @@ git add introgit/content.md
 
 # Étape 5: Effectuez votre commit
 
-## La commande commit nous permet de faire l'équivalent d'un snapshot de ce que nous avons indexé
+### La commande commit fait l'équivalent d'un snapshot de ce que nous avons indexé
 ```
 git commit
 ```
-## Suite à cette commande, votre éditeur sera ouvert. Vous devrez y entrer une description du commit
+### Suite à cette commande, votre éditeur sera ouvert. Vous devrez y entrer une description du commit
 
-### Une description de commit doit contenir:
+ Une description de commit doit contenir:
 * Un titre comme première ligne
 * Un description du raisonnement derrière la modification contenu de ce commit
-
-#Attention ce commit est local (uniquement sur votre machine)
-
+* 
 ---
 
 # Étape 6: Effectuez un push
 
-## Utilisez la commande pour envoyer votre commit
+## Attention! Ce commit est local (uniquement sur votre machine)
+
+###  Utilisez la commande pour envoyer votre commit
 
 ```
 git push
