@@ -103,17 +103,17 @@ git commit
  Une description de commit doit contenir:
 * Un titre comme première ligne
 * Un description du raisonnement derrière la modification contenu de ce commit
-* 
+
 ---
 
 # Étape 6: Effectuez un push
 
 ## Attention! Ce commit est local (uniquement sur votre machine)
 
-###  Utilisez la commande pour envoyer votre commit
+###  Utilisez la commande push pour envoyer votre commit
 
 ```
-git push
+git push origin master
 ```
 
 ---
