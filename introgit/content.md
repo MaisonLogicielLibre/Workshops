@@ -149,6 +149,8 @@ Le traitement de votre pull request peut prendre plusieurs jours.
 ## [r-] Votre contribution est rejetée
 ### La réponse peut vous indiquer les correctifs à apporter à votre contribution pour que celle-ci soit acceptée.
 
+---
+
 # Exercice 1: Ajoutez votre nom au fichier contributors.md (si vous en êtes capable)
 
 ### Indice: Ce fichier se trouve dans la branche gh-pages
