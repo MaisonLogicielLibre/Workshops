@@ -45,7 +45,7 @@ class: middle, center
 
 ## Dans le cas de Git, c'est une bonne chose!
 
-Sur GitHub, c'est facile de faire un fork: ouvrez la page du projet et clickez sur "Fork"
+Sur GitHub, c'est facile de faire un fork: ouvrez la page du projet et cliquez sur "Fork"
 
 ![GitHub Fork](images/Bootcamp-Fork.png)
 
@@ -102,7 +102,7 @@ git commit
 
  Une description de commit doit contenir:
 * Un titre comme première ligne
-* Un description du raisonnement derrière la modification contenu de ce commit
+* Une description du raisonnement derrière la modification contenue dans ce commit
 
 ---
 
@@ -133,6 +133,21 @@ git push origin master
 ![Pull Request Descripiton](images/PullRequestDescription.png)
 
 ---
+
+# Étape 8: Attendre
+
+## Soyez patient
+
+Le traitement de votre pull request peut prendre plusieurs jours.
+
+---
+
+# Étape 9: La réponse
+
+## [r+] Votre contribution est acceptée
+
+## [r-] Votre contribution est rejetée
+### La réponse peut vous indiquer les correctifs à apporter à votre contribution pour que celle-ci soit acceptée.
 
 # Exercice 1: Ajoutez votre nom au fichier contributors.md (si vous en êtes capable)
 
